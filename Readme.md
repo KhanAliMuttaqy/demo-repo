@@ -1,1 +1,1 @@
-Please read this file first.
+Please read this file first!
